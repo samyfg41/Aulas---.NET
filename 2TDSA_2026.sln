@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqFaroShuffle", "LinqFaro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalkthroughWritingLinqQueries", "WalkthroughWritingLinqQueries\WalkthroughWritingLinqQueries.csproj", "{0E062379-502B-47B2-9A66-06C8FBDB30FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFGetSarted", "EFGetSarted\EFGetSarted.csproj", "{4794B398-FE1E-4B38-9934-A4FAEC673DFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,7 @@ Global
 		{289691F9-7A95-4D00-A9A2-2BCE0C603957} = {FCB93167-A17C-4B56-A555-87BD1CCC2EA7}
 		{B8FDD7E2-B83B-40AA-94C2-F53251F72BFF} = {ED65D6E4-87F8-4AC3-898C-6C0F0D3C6B44}
 		{0E062379-502B-47B2-9A66-06C8FBDB30FD} = {ED65D6E4-87F8-4AC3-898C-6C0F0D3C6B44}
+		{4794B398-FE1E-4B38-9934-A4FAEC673DFE} = {ED65D6E4-87F8-4AC3-898C-6C0F0D3C6B44}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{54FC276C-2D63-43A3-98DA-504987C0287E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -47,5 +50,9 @@ Global
 		{0E062379-502B-47B2-9A66-06C8FBDB30FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E062379-502B-47B2-9A66-06C8FBDB30FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E062379-502B-47B2-9A66-06C8FBDB30FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4794B398-FE1E-4B38-9934-A4FAEC673DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4794B398-FE1E-4B38-9934-A4FAEC673DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4794B398-FE1E-4B38-9934-A4FAEC673DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4794B398-FE1E-4B38-9934-A4FAEC673DFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
